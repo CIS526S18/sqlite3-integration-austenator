@@ -1,0 +1,23 @@
+{
+  "name": "sqlite3-integration-austenator",
+  "version": "0.1.0",
+  "description": "A simple dynamic web server implementation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIS526S18/sqlite3-integration-austenator.git"
+  },
+  "author": "Austen Henry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CIS526S18/sqlite3-integration-austenator/issues"
+  },
+  "homepage": "https://github.com/CIS526S18/sqlite3-integration-austenator#readme",
+  "dependencies": {
+    "sqlite3": "3.1.13"
+  }
+}
